@@ -1,3 +1,3 @@
 # first-repo
-This is my first repository .
-Author - Ayush Sharma  <br> hiii
+This is my first repository .<br>
+Author - Ayush Sharma  
